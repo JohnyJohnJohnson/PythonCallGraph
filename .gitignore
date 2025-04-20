@@ -1,3 +1,14 @@
+
+# Personal stuff
+__atachments__/
+test_result/
+FC_PythonCallGraph.canvas
+MyDocs/
+PythonCallGraph.md
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
